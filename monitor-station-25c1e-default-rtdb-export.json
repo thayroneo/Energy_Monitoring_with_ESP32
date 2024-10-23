@@ -1,0 +1,69 @@
+{
+  "moradores": {
+    "936A222D": {
+      "apartamento": 201,
+      "nome": "Tayrone"
+    },
+    "B6073000": {
+      "apartamento": 101,
+      "nome": "José"
+    }
+  },
+  "sessions": {
+    "sessao_1": {
+      "UID_morador": "B6073000",
+      "consumo_Kwh": 0.22,
+      "custo": 3.4,
+      "data_uso": "14/09/2020",
+      "horarioEntrada": "16:25:00",
+      "horarioSaida": "16:55:15",
+      "morador": "José",
+      "tarifa": 0.73,
+      "tempoGasto_h": 0.504
+    },
+    "sessao_2": {
+      "UID_morador": "936A222D",
+      "consumo_Kwh": 0.02,
+      "custo": 4.9,
+      "data_uso": "16/10/2024",
+      "horarioEntrada": "14:23:38",
+      "horarioSaida": "14:24:38",
+      "morador": "Tayrone",
+      "tarifa": 0.73,
+      "tempoGasto_h": 0.03
+    },
+    "sessao_3": {
+      "UID_morador": "936A222D",
+      "consumo_Kwh": 0,
+      "custo": 7.8,
+      "data_uso": "20/10/2024",
+      "horarioEntrada": "18:27:14",
+      "horarioSaida": "18:27:35",
+      "morador": "Tayrone",
+      "tarifa": 0.73,
+      "tempoGasto_h": 0.01
+    },
+    "sessao_4": {
+      "UID_morador": "B6073000",
+      "consumo_Kwh": 0.02,
+      "custo": 0.01,
+      "data_uso": "20/10/2024",
+      "horarioEntrada": "18:35:54",
+      "horarioSaida": "18:39:32",
+      "morador": "José",
+      "tarifa": 0.73,
+      "tempoGasto_h": 0.06
+    },
+    "sessao_5": {
+      "UID_morador": "B6073000",
+      "consumo_Kwh": 0,
+      "custo": 0,
+      "data_uso": "20/10/2024",
+      "horarioEntrada": "18:41:22",
+      "horarioSaida": "18:41:36",
+      "morador": "José",
+      "tarifa": 0.73,
+      "tempoGasto_h": 0
+    }
+  }
+}
